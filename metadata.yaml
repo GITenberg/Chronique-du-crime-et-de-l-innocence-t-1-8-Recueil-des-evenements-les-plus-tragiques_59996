@@ -1,11 +1,16 @@
 _repo: Chronique-du-crime-et-de-l-innocence-t-1-8-Recueil-des-evenements-les-plus-tragiques_59996
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59996-h/images/cover.jpg
 creator:
   author:
     agent_name: Champagnac, J.-B. J. (Jean-Baptiste Joseph)
     gutenberg_agent_id: '50724'
     url: http://www.gutenberg.org/2009/agents/50724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59996#Chronique-du-crime-et-de-l-innocence-t-1-8-Recueil-des-evenements-les-plus-tragiques
 gutenberg_issued: '2019-07-28'
 gutenberg_type: Text
 identifiers:
